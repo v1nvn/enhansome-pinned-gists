@@ -446,7 +446,7 @@
                 "last_commit": "2023-10-26T04:39:32Z",
                 "owner": "izayl",
                 "repo": "spotify-box",
-                "stars": 132
+                "stars": 131
               }
             },
             {
@@ -484,7 +484,7 @@
             "last_commit": "2023-10-26T04:39:32Z",
             "owner": "izayl",
             "repo": "spotify-box",
-            "stars": 132
+            "stars": 131
           }
         },
         {
@@ -777,10 +777,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:13:18.946Z",
+    "last_updated": "2026-02-08T04:33:23.211Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "source_repository": "v1nvn/enhansome-pinned-gists",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
