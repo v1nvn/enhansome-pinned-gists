@@ -57,7 +57,7 @@ Displaying data from external services in a pinned gist.
 * [youtube-box](https://github.com/SinaKhalili/youtube-box) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2020-05-22 - Update a pinned gist to show your latest YouTube videos
 * [blog-box](https://github.com/Aveek-Saha/blog-box) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-03 - Update a pinned gist to show your latest dev.to blog post.
 * [mal-box](https://github.com/jckli/mal-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-10 - Update a pinned gist to contain your latest activity from MyAnimeList.
-* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 6 | 🐛 6 | 🌐 JavaScript | 📅 2025-12-12 - Update a pinned gist to contain your Todoist productivity stats
+* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 6 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-12 - Update a pinned gist to contain your Todoist productivity stats
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2025-12-22 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-12-22 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 * [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-02-04 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
