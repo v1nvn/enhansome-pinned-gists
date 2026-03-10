@@ -57,7 +57,7 @@ Displaying data from external services in a pinned gist.
 * [youtube-box](https://github.com/SinaKhalili/youtube-box) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2020-05-22 - Update a pinned gist to show your latest YouTube videos
 * [blog-box](https://github.com/Aveek-Saha/blog-box) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-03 - Update a pinned gist to show your latest dev.to blog post.
 * [mal-box](https://github.com/jckli/mal-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-10 - Update a pinned gist to contain your latest activity from MyAnimeList.
-* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-08 - Update a pinned gist to contain your Todoist productivity stats
+* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-09 - Update a pinned gist to contain your Todoist productivity stats
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-12-22 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 * [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-03-06 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
@@ -70,7 +70,7 @@ Displaying data from external services in a pinned gist.
 
 Displaying more detailed GitHub user data in a pinned gist.
 
-* [productive-box](https://github.com/maxam2017/productive-box) ⭐ 530 | 🐛 4 | 🌐 TypeScript | 📅 2024-08-14 - Update a pinned gist to contain your most productive hours during the day.
+* [productive-box](https://github.com/maxam2017/productive-box) ⭐ 531 | 🐛 4 | 🌐 TypeScript | 📅 2024-08-14 - Update a pinned gist to contain your most productive hours during the day.
 * [activity-box](https://github.com/JasonEtco/activity-box) ⭐ 224 | 🐛 20 | 🌐 JavaScript | 📅 2023-12-21 - Update a pinned gist to contain the latest activity of a GitHub user.
   * [github-activity-box](https://github.com/maxchang3/github-activity-box) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-02 - A TypeScript rewrite of activity-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and using the GraphQL API to retrieve issues and PRs authored by the specified user.
 * [github-stats-box](https://github.com/bokub/github-stats-box) ⭐ 155 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-18 - Update a pinned gist to contain your GitHub statistics.
