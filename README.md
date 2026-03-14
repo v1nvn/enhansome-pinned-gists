@@ -60,10 +60,10 @@ Displaying data from external services in a pinned gist.
 * [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-10 - Update a pinned gist to contain your Todoist productivity stats
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-12-22 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
-* [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-03-06 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+* [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-03-13 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-03-05 - Update a pinned gist with a daily trivia question from Open Trivia DB.
+* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-03-13 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 
 ## GitHub
