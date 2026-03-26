@@ -21,7 +21,7 @@ Displaying data from external services in a pinned gist.
   * [waka-box](https://github.com/matchai/waka-box) ⚠️ Archived - Update a pinned gist to contain your weekly WakaTime stats.
   * [waka-box-go](https://github.com/YouEclipse/waka-box-go) ⭐ 174 | 🐛 3 | 🌐 Go | 📅 2024-01-31 - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 * [bird-box](https://github.com/matchai/bird-box) ⭐ 187 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-08 - Update a pinned gist to contain the latest tweets of a Twitter user.
-* [steam-box](https://github.com/YouEclipse/steam-box) ⭐ 180 | 🐛 3 | 🌐 Go | 📅 2024-07-10 - Update a pinned gist to contain your Steam playtime leaderboard.
+* [steam-box](https://github.com/YouEclipse/steam-box) ⭐ 181 | 🐛 3 | 🌐 Go | 📅 2024-07-10 - Update a pinned gist to contain your Steam playtime leaderboard.
 * Spotify (<https://spotify.com/>)
   * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 131 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
   * [spotify-box](https://github.com/Aveek-Saha/spotify-box) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-10 - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
