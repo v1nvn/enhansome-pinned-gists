@@ -28,19 +28,19 @@ Displaying data from external services in a pinned gist.
   * [spotify-gist](https://github.com/mporracindie/spotify-gist) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2021-09-15 - Update a pinned gist to contain your monthly top artist on Spotify.
 * [music-box](https://github.com/jacc/music-box) ⭐ 119 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-12 - Update a pinned gist to contain your weekly listening report on Last.fm.
 * [netease-music-box](https://github.com/Leecason/netease-music-box) ⭐ 73 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-13 - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
-* [strava-box](https://github.com/JohnPhamous/strava-box) ⭐ 51 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your YTD exercise metrics from Strava.
+* [strava-box](https://github.com/JohnPhamous/strava-box) ⭐ 52 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your YTD exercise metrics from Strava.
 * [medium-stat-box](https://github.com/kylemocode/medium-stat-box) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-23 - Update a pinned gist to show your medium stats and latest articles.
 * [neko-box](https://github.com/RangerDigital/neko-box) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-05-21 - Update a pinned gist to contain the latest activity from AniList.
 * [goodreads-box](https://github.com/mdluo/goodreads-box) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2020-11-17 - Update a pinned gist to show your currently reading books and progress on Goodreads.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 25 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 25 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-26 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-28 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-09-13 - Update a pinned gist to contain your PlayStation playtime leaderboard.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2026-02-24 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * LeetCode (<https://leetcode.com/>)
   * [leetcode-box](https://github.com/puiiyuen/leetcode-box) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-25 - Update a pinned gist to show your LeetCode stats.
-  * [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-03-26 - Update a pinned gist to show your top leetcode skills.
+  * [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-28 - Update a pinned gist to show your top leetcode skills.
   * [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show leetcode solved problem.
 * [douban-box](https://github.com/CodeDaraW/douban-box) ⚠️ Archived - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 * [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2024-07-09 - Update a pinned gist to contain your Chess.com Ratings.
