@@ -34,7 +34,7 @@ Displaying data from external services in a pinned gist.
 * [goodreads-box](https://github.com/mdluo/goodreads-box) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2020-11-17 - Update a pinned gist to show your currently reading books and progress on Goodreads.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 25 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 25 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-28 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-29 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-09-13 - Update a pinned gist to contain your PlayStation playtime leaderboard.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2026-02-24 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
