@@ -34,7 +34,7 @@ Displaying data from external services in a pinned gist.
 * [goodreads-box](https://github.com/mdluo/goodreads-box) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2020-11-17 - Update a pinned gist to show your currently reading books and progress on Goodreads.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 25 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 25 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-29 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-02 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-09-13 - Update a pinned gist to contain your PlayStation playtime leaderboard.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2026-02-24 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
@@ -60,11 +60,11 @@ Displaying data from external services in a pinned gist.
 * [mal-box](https://github.com/jckli/mal-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-10 - Update a pinned gist to contain your latest activity from MyAnimeList.
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-12-22 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
-* [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-04-01 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+* [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-04-02 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-03-31 - Update a pinned gist with a daily trivia question from Open Trivia DB.
+* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-02 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 
 ## GitHub
 
