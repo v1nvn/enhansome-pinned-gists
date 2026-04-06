@@ -34,7 +34,7 @@ Displaying data from external services in a pinned gist.
 * [goodreads-box](https://github.com/mdluo/goodreads-box) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2020-11-17 - Update a pinned gist to show your currently reading books and progress on Goodreads.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 25 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 25 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-02 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-05 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2026-02-24 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * LeetCode (<https://leetcode.com/>)
@@ -55,7 +55,7 @@ Displaying data from external services in a pinned gist.
 * [youtube-box](https://github.com/SinaKhalili/youtube-box) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2020-05-22 - Update a pinned gist to show your latest YouTube videos
 * [toggl-box](https://github.com/tobimori/toggl-box) ⚠️ Archived - Update a pinned gist to contain your weekly Toggl time tracking stats
 * [blog-box](https://github.com/Aveek-Saha/blog-box) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-03 - Update a pinned gist to show your latest dev.to blog post.
-* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 7 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-10 - Update a pinned gist to contain your Todoist productivity stats
+* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-05 - Update a pinned gist to contain your Todoist productivity stats
 * [mal-box](https://github.com/jckli/mal-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-10 - Update a pinned gist to contain your latest activity from MyAnimeList.
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-04-03 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
@@ -71,12 +71,12 @@ Displaying data from external services in a pinned gist.
 Displaying more detailed GitHub user data in a pinned gist.
 
 * [productive-box](https://github.com/maxam2017/productive-box) ⭐ 531 | 🐛 4 | 🌐 TypeScript | 📅 2024-08-14 - Update a pinned gist to contain your most productive hours during the day.
-* [activity-box](https://github.com/JasonEtco/activity-box) ⭐ 225 | 🐛 20 | 🌐 JavaScript | 📅 2023-12-21 - Update a pinned gist to contain the latest activity of a GitHub user.
+* [activity-box](https://github.com/JasonEtco/activity-box) ⭐ 224 | 🐛 20 | 🌐 JavaScript | 📅 2023-12-21 - Update a pinned gist to contain the latest activity of a GitHub user.
   * [github-activity-box](https://github.com/maxchang3/github-activity-box) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-02 - A TypeScript rewrite of activity-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and using the GraphQL API to retrieve issues and PRs authored by the specified user.
 * [github-stats-box](https://github.com/bokub/github-stats-box) ⭐ 157 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-18 - Update a pinned gist to contain your GitHub statistics.
 * [lang-box](https://github.com/inokawa/lang-box) ⭐ 58 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-03 - Update a pinned gist to contain languages of your recent commits in GitHub
   * [github-lang-box](https://github.com/maxchang3/github-lang-box) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-28 - A TypeScript rewrite of lang-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and private repository access.
-  * [recent-languages-box](https://github.com/liby/recent-languages-box) ⭐ 0 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-01 - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
+  * [recent-languages-box](https://github.com/liby/recent-languages-box) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-05 - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
 
 ## User Defined
 
