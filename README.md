@@ -21,13 +21,13 @@ Displaying data from external services in a pinned gist.
   * [waka-box](https://github.com/matchai/waka-box) ⚠️ Archived - Update a pinned gist to contain your weekly WakaTime stats.
   * [waka-box-go](https://github.com/YouEclipse/waka-box-go) ⭐ 174 | 🐛 3 | 🌐 Go | 📅 2024-01-31 - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 * [bird-box](https://github.com/matchai/bird-box) ⭐ 187 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-08 - Update a pinned gist to contain the latest tweets of a Twitter user.
-* [steam-box](https://github.com/YouEclipse/steam-box) ⭐ 178 | 🐛 3 | 🌐 Go | 📅 2024-07-10 - Update a pinned gist to contain your Steam playtime leaderboard.
+* [steam-box](https://github.com/YouEclipse/steam-box) ⭐ 179 | 🐛 3 | 🌐 Go | 📅 2024-07-10 - Update a pinned gist to contain your Steam playtime leaderboard.
 * Spotify (<https://spotify.com/>)
   * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 131 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
   * [spotify-box](https://github.com/Aveek-Saha/spotify-box) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-10 - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
   * [spotify-gist](https://github.com/mporracindie/spotify-gist) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2021-09-15 - Update a pinned gist to contain your monthly top artist on Spotify.
 * [music-box](https://github.com/jacc/music-box) ⭐ 119 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-12 - Update a pinned gist to contain your weekly listening report on Last.fm.
-* [netease-music-box](https://github.com/Leecason/netease-music-box) ⭐ 73 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-13 - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+* [netease-music-box](https://github.com/Leecason/netease-music-box) ⭐ 74 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-13 - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 * [strava-box](https://github.com/JohnPhamous/strava-box) ⭐ 52 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your YTD exercise metrics from Strava.
 * [medium-stat-box](https://github.com/kylemocode/medium-stat-box) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-23 - Update a pinned gist to show your medium stats and latest articles.
 * [neko-box](https://github.com/RangerDigital/neko-box) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-05-21 - Update a pinned gist to contain the latest activity from AniList.
@@ -62,7 +62,7 @@ Displaying data from external services in a pinned gist.
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-08 - Update a pinned gist with a daily trivia question from Open Trivia DB.
+* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-09 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) - Update a pinned gist to contain your PlayStation playtime leaderboard.
 
