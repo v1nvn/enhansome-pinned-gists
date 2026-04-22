@@ -64,7 +64,7 @@ Displaying data from external services in a pinned gist.
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-16 - Update a pinned gist with a daily trivia question from Open Trivia DB.
+* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-21 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 
 ## GitHub
 
