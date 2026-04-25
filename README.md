@@ -23,7 +23,7 @@ Displaying data from external services in a pinned gist.
 * [bird-box](https://github.com/matchai/bird-box) ⭐ 187 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-08 - Update a pinned gist to contain the latest tweets of a Twitter user.
 * [steam-box](https://github.com/YouEclipse/steam-box) ⭐ 179 | 🐛 3 | 🌐 Go | 📅 2024-07-10 - Update a pinned gist to contain your Steam playtime leaderboard.
 * Spotify (<https://spotify.com/>)
-  * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 131 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
+  * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 130 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
   * [spotify-box](https://github.com/Aveek-Saha/spotify-box) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-10 - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
   * [spotify-gist](https://github.com/mporracindie/spotify-gist) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2021-09-15 - Update a pinned gist to contain your monthly top artist on Spotify.
 * [music-box](https://github.com/jacc/music-box) ⭐ 119 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-12 - Update a pinned gist to contain your weekly listening report on Last.fm.
@@ -47,8 +47,8 @@ Displaying data from external services in a pinned gist.
 * [osu-box](https://github.com/AiverAiva/osu-box) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-31 - Update a pinned gist to display your osu! stats.
 * [shortcut-box](https://github.com/artemnovichkov/shortcut-box) ⭐ 14 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist to contain random IDE shortcut
 * [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-02-19 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
-* [typeracer-box](https://github.com/tobimori/typeracer-box) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your latest TypeRacer races
 * [covid-box](https://github.com/puf17640/covid-box) ⚠️ Archived - Update a gist to contain global or country specific coronavirus stats.
+* [typeracer-box](https://github.com/tobimori/typeracer-box) ⭐ 12 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your latest TypeRacer races
 * [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2021-05-29 - Update a pinned gist to contain a random hitokoto.
 * Code::Stats (<https://codestats.net/>)
   * [codestats-box-python](https://github.com/aksh1618/codestats-box-python) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2025-05-25 - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
@@ -64,7 +64,7 @@ Displaying data from external services in a pinned gist.
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-21 - Update a pinned gist with a daily trivia question from Open Trivia DB.
+* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-24 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 
 ## GitHub
 
